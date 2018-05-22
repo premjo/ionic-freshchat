@@ -1,0 +1,8 @@
+{
+  "name": "ionic-freshchat",
+  "app_id": "2f95735f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
